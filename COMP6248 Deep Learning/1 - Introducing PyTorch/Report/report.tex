@@ -1,0 +1,137 @@
+\documentclass[sigconf]{acmart}
+
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{hyperref}
+\usepackage[newfloat,cache=false]{minted}
+
+\begin{document}
+
+\title{Lab 1 Exercise - Playing with gradients and matrices in PyTorch}
+\author{Luke McClure}
+\email{29573904}
+
+\maketitle
+\pagestyle{myheadings}
+\begin{figure}[h]
+    \centering
+    $\mathbf{A} = \begin{bmatrix}
+        0.3374 & 0.6005 & 0.1735 \\
+        3.3359 & 0.0492 & 1.8374 \\
+        2.9407 & 0.5301 & 2.2620
+    \end{bmatrix} $ \\
+    \hypertarget{mat:A}{\textbf{Matrix A:} Base matrix used for experimentation}
+\end{figure}
+\section{Exercise 1}
+\subsection{Implement gradient-based factorisation}
+\begin{listing}[H]
+    \begin{minted}[frame=lines, breaklines, breaksymbolleft=, fontsize=\footnotesize]{python}
+def sgd_factorise(A: torch.Tensor, rank: int, num_epochs = 1000, lr = 0.01):
+    m = A.shape[0]
+    n = A.shape[1]
+    U = torch.rand(m, rank)
+    V = torch.rand(n, rank)
+    for epoch in range(num_epochs):
+        for r in range(m):
+            for c in range(n):
+                e = A[r][c] - U[r] @ V[c].t()
+                U[r] = U[r] + lr * e * V[c] 
+                V[c] = V[c] + lr * e * U[r]
+    return [U, V]
+    \end{minted}
+\end{listing}
+\subsection{Factorise and compute reconstruction error} 
+\label{sec:fac}
+Applying sgd\_factorise to \hyperlink{mat:A}{matrix \textbf{A}} to produce a rank 2 factorisation produces the matrices $\mathbf{\hat{U}}$ and $\mathbf{\hat{V}}$.
+\begin{center}
+    $ \mathbf{\hat{U}} = 
+    \begin{bmatrix}
+            0.6168 & -0.1530 \\
+            0.4108 &  1.5961 \\
+            1.0798 &  1.1800
+    \end{bmatrix} $ \\
+    $ \mathbf{\hat{V}} = 
+    \begin{bmatrix}
+        0.8126 &  1.8290 \\
+        0.7836 & -0.2088 \\
+        0.8384 &  1.0195
+    \end{bmatrix} $
+\end{center}
+The reconstructed matrix $\mathbf{R}$ can be computed using these matrices by calculating $\mathbf{\hat{U}\hat{V}}^{T}$. 
+\begin{center}
+    \begin{math}
+        \mathbf{R} = \begin{bmatrix}
+            0.2214 &  0.5153 &  0.3612 \\
+            3.2531 & -0.0114 &  1.9717 \\
+            3.0356 &  0.5997 &  2.1083 
+        \end{bmatrix} 
+    \end{math}
+\end{center} 
+Comparing this reconstructed matrix to the original \hyperlink{mat:A}{matrix \textbf{A}} using $|| \mathbf{A} - \mathbf{R}||^{2}_{F} $ produces the mse loss of this method.
+\begin{center}
+    \begin{math}
+        loss = 0.1220
+    \end{math}
+\end{center}
+\section{Exercise 2}
+\subsection{Compare to the truncated-SVD}
+SVD decomposes a matrix into the matrices $\mathbf{\hat{U}}$, $\mathbf{\Sigma}$ \& $\mathbf{\hat{V}}$.
+Using the SVD method on \hyperlink{mat:A}{matrix \textbf{A}}, the reconstructed matrix with the third element of $\mathbf{\Sigma}$ set to 0 is as follows. 
+\begin{center}
+    \begin{math}
+        \mathbf{R} = \begin{bmatrix}
+            0.2245 &  0.5212 &  0.3592 \\
+            3.2530 & -0.0090 & 1.9737 \\
+            3.0378 &  0.5983 & 2.1023 
+        \end{bmatrix} 
+    \end{math}  
+\end{center}
+When compared to \hyperlink{mat:A}{matrix \textbf{A}}, the mse loss of this reconstructed matrix is as follows.
+\begin{center}
+    \begin{math}
+        loss = 0.1219
+    \end{math} 
+\end{center} 
+The loss and reconstruction using truncated SVD are remarkably similar to the result produced in \ref{sec:fac}, with only 0.0001 separating the loss between the two results.
+\\This act of altering $\mathbf{\Sigma}$ has the same effect as producing a lower rank approximation, this is formalised by the Eckart-Young theorem. By removing the third value within $\mathbf{\Sigma}$ produced by SVD and then reconstructing based on that effectively removes that third rank from the reconstruction and produces a rank 2 reconstruction of \hyperlink{mat:A}{matrix \textbf{A}}. 
+\section{Exercise 3}
+\subsection{Implement masked factorisation}
+\begin{listing}[H]
+    \begin{minted}[frame=lines, breaklines, breaksymbolleft=, fontsize=\footnotesize]{python}
+def sgd_factorise_masked(A: torch.Tensor, M: torch.Tensor, rank: int, num_epochs = 1000, lr = 0.01):
+    m = A.shape[0]
+    n = A.shape[1]
+    U = torch.rand(m, rank)
+    V = torch.rand(n, rank)
+    for epoch in range(num_epochs):
+        for r in range(m):
+            for c in range(n):
+                if(M[r][c]):
+                    e = A[r][c] - U[r] @ V[c].t()
+                    U[r] = U[r] + lr * e * V[c] 
+                    V[c] = V[c] + lr * e * U[r]
+    return [U, V]
+    \end{minted}
+\end{listing}
+\subsection{Reconstruct a matrix}
+Applying sgd\_factorise\_masked to \hyperlink{mat:A}{matrix \textbf{A}} using $rank=2$ and a mask $\mathbf{M}$ produces the matrices $\mathbf{\hat{U}}$ and $\mathbf{\hat{V}}$.
+Reconstructing using these matrices produces $\mathbf{R}$.
+\begin{center}
+    \begin{math}
+        \mathbf{R} = \begin{bmatrix}
+        0.3561 & 0.5951 & 0.1518 \\
+        2.1802 & 0.0496 & 1.8334 \\
+        2.9360 & 0.8643 & 2.2685 
+        \end{bmatrix} 
+    \end{math}
+\end{center} 
+The loss of this matrix $\mathbf{R}$ compared to \hyperlink{mat:A}{matrix \textbf{A}} produces a much higher loss than in \ref{sec:fac}.
+\begin{center}
+    \begin{math}
+        loss = 1.4484
+    \end{math}
+\end{center}
+This is to be expected considering two of the values of this original matrix were hidden for this evaluation, this algorithm cannot completely compensate for the masking although the decomposition produces a close estimate within 50\% of each masked value.
+Disregarding the masked values, this algorithm produces remarkably close values. When the two masked values in $\mathbf{R}$ are set to their value in $\mathbf{A}$, the loss outside these values: $$loss = 0.0009$$
+\end{document}
+\endinput

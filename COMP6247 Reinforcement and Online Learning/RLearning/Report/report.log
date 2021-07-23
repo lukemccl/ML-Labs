@@ -1,0 +1,2854 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.4.17)  4 JUN 2021 07:41
+entering extended mode
+**c:/Users/lmcc9/Desktop/Workspace/Semes2/comp6247/Courseworks/RLearning/Report/report.tex
+(c:/Users/lmcc9/Desktop/Workspace/Semes2/comp6247/Courseworks/RLearning/Report/report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\acmart.cls
+Document Class: acmart 
+("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex" ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.tex"))
+\XKV@depth=\count177
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.sty" ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
+\integerpart=\count178
+\decimalpart=\count179
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package acmart Info: Not using screen mode on input line 72.
+Package acmart Info: Using breaking urls on hyphens on input line 80.
+Package acmart Info: Requiring acmthm on input line 88.
+Package acmart Info: Not using review mode on input line 97.
+Package acmart Info: Not using authorversion mode on input line 105.
+Package acmart Info: Not using nonacm mode on input line 117.
+Package acmart Info: Explicitly selecting natbib mode on input line 129.
+Package acmart Info: Not using anonymous mode on input line 137.
+Package acmart Info: Not using timestamp mode on input line 145.
+Package acmart Info: Not using authordraft mode on input line 155.
+Class acmart Info: Using format sigconf, number 4 on input line 164.
+Class acmart Info: Using fontsize 9pt on input line 248.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsart.cls"
+Document Class: amsart 2020/05/29 v2.20.6
+\linespacing=\dimen138
+\normalparindent=\dimen139
+\normaltopskip=\skip47
+("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen140
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count183
+\DOTSCASE@=\count184
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks18
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks19
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 397.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box49
+\listisep=\skip51
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count266
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\captionindent=\dimen149
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks28
+\MT@count=\count267
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen150
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count268
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip57
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype.cfg"
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count270
+\@cmidlb=\count271
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count272
+\@lastruleclass=\count273
+\@thisrulewidth=\dimen163
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/totpages\totpages.sty"
+Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\everyshi-ltx.sty"
+Package: everyshi-ltx 2020/08/17 v1.0a Emulation of the original everyshi package
+with kernel methods
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/environ\environ.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count274
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count277
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4338.
+Package hyperref Info: Option `unicode' set `true' on input line 4338.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count278
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen165
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count279
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atveryend-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip60
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperxmp\hyperxmp.sty"
+Package: hyperxmp 2020/11/22 v5.9 Store hyperref metadata in XMP format
+\hyxmp@aep@toks=\toks29
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\stringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifmtarg\ifmtarg.sty"
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft.sty"
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen170
+\Gm@wd@mp=\dimen171
+\Gm@odd@mp=\dimen172
+\Gm@even@mp=\dimen173
+\Gm@layoutwidth=\dimen174
+\Gm@layoutheight=\dimen175
+\Gm@layouthoffset=\dimen176
+\Gm@layoutvoffset=\dimen177
+\Gm@dimlist=\toks30
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ncctools\manyfoot.sty"
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ncctools\nccfoots.sty"
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen178
+)
+\footinsauthorsaddresses=\insert252
+\c@footnoteauthorsaddresses=\count288
+\footinscopyrightpermission=\insert251
+\c@footnotecopyrightpermission=\count289
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftex\glyphtounicode.tex") ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cmap\cmap.sty"
+Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+<<t1.cmap>>) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\libertine.sty"
+Package: libertine 2020/03/26 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontaxes\fontaxes.sty"
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 484.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\LinLibertine_I.tex")) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/inconsolata\zi4.sty"
+Package: zi4 2019/05/17 v1.12
+ `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+\zifour@ocount=\count290
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\newtxmath.sty"
+Package: newtxmath 2021/03/27 v1.642
+ `newtxmath' v1.642, 2021/03/27 Math macros based originally on txfonts (msharpe) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\centernot.sty"
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count291
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/binhex\binhex.tex")
+\tx@Isdigit=\count292
+\tx@IsAlNum=\count293
+\tx@tA=\toks31
+\tx@tB=\toks32
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/LinuxLibertineT-TLF/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/LinuxLibertineT-TLF/m/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 361.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 369.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/LinuxBiolinumT-TLF/m/n on input line 369.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/LinuxBiolinumT-TLF/m/n on input line 369.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 370.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/LinuxLibertineT-TLF/m/it on input line 370.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/LinuxLibertineT-TLF/m/it on input line 370.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 371.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/LinuxLibertineT-TLF/m/it --> OT1/LinuxLibertineT-TLF/sb/it on input line 374.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/LinuxBiolinumT-TLF/m/n --> T1/LinuxBiolinumT-TLF/b/n on input line 375.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 376.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 393.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 393.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 393.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 394.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 533.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 535.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 554.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 554.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 554.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 554.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 554.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 555.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 578.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 599.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 612.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 612.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 612.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 612.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 612.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 613.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 627.
+\tx@sbptoks=\toks33
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 850.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 851.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 852.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 853.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 854.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 855.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 856.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 858.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 862.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 863.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 934.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 935.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1998.
+LaTeX Info: Redefining \Bbbk on input line 2786.
+LaTeX Info: Redefining \not on input line 2935.
+LaTeX Info: Redefining \textsquare on input line 2965.
+LaTeX Info: Redefining \openbox on input line 2967.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen179
+\captionmargin@=\dimen180
+\captionwidth=\dimen181
+\caption@tempdima=\dimen182
+\caption@indent=\dimen183
+\caption@parindent=\dimen184
+\caption@hangindent=\dimen185
+Package caption Info: AMS or SMF document class detected.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption-ams-smf.sto"
+File: caption-ams-smf.sto 2020/08/22 v2.0 Adaption of the caption package to the AMS and SMF document classes (AR)
+))
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+Package caption Info: hyperref package is loaded.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count296
+\float@exts=\toks34
+\float@box=\box50
+\@float@everytoks=\toks35
+\@floatcapt=\box51
+)
+\@float@every@sidebar=\toks36
+\c@sidebar=\count297
+\fulltextwidth=\dimen186
+\@ACM@labelwidth=\dimen187
+\listisep=\skip61
+\num@authorgroups=\count298
+\num@authors=\count299
+\@ACM@badge@width=\skip62
+\@ACM@title@width=\skip63
+\@ACM@badge@skip=\skip64
+Class acmart Info: Printing CCS on input line 1473.
+Class acmart Info: Printing bibformat on input line 1473.
+Class acmart Info: Suppressing folios on input line 1480.
+Class acmart Info: Setting authorsperrow to 0 on input line 1483.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comment.sty"
+\CommentStream=\write3
+ Excluding comment 'comment') Excluding comment 'CCSXML'
+\c@@concepts=\count300
+\mktitle@bx=\box52
+\@ACM@commabox=\box53
+\author@bx=\box54
+\author@bx@wd=\dimen188
+\author@bx@sep=\skip65
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+)
+\@folio@wd=\dimen189
+\@folio@ht=\dimen190
+\@folio@voffset=\dimen191
+ Special comment 'acks'
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF on input line 2950.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\t1linuxlibertinet-tlf.fd"
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 2950.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+\@float@every@algorithm=\toks37
+\c@algorithm=\count301
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count302
+\c@ALG@rem=\count303
+\c@ALG@nested=\count304
+\ALG@tlm=\skip75
+\ALG@thistlm=\skip76
+\c@ALG@Lnr=\count305
+\c@ALG@blocknr=\count306
+\c@ALG@storecount=\count307
+\c@ALG@tmpcounter=\count308
+\ALG@tmplength=\skip77
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bbold\bbold.sty"
+Package: bbold 1994/04/06 Bbold symbol package
+LaTeX Font Info:    Redeclaring math alphabet \mathbb on input line 42.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks38
+\labelindent=\skip78
+\enit@outerparindent=\dimen192
+\enit@toks=\toks39
+\enit@inbox=\box55
+\enit@count@id=\count309
+\enitdp@description=\count310
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\bm.sty"
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup10
+\symboldletters=\mathgroup11
+\symboldsymbols=\mathgroup12
+\symboldlargesymbols=\mathgroup13
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/animate\animate.sty"
+Package: animate 2020/10/07 PDF & SVG animations from files and inline graphics
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft.sty"
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen193
+\calc@Bdimen=\dimen194
+\calc@Askip=\skip79
+\calc@Bskip=\skip80
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip81
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-abspage.sty"
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-base.sty"
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count314
+Package zref Info: New property: abspage on input line 66.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/media9\pdfbase.sty" ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e\l3keys2e.sty" ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count315
+\l__pdf_internal_box=\box56
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2021/03/01 v0.46 driver independent access to low-level PDF features
+\g_pbs_page_int=\count316
+\g_pbs_oc_int=\count317
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ocgx2\ocgbase.sty"
+Package: ocgbase 2021/01/25 v0.18 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count318
+)
+\@anim@box=\box57
+\@anim@measbox=\box58
+\@anim@tmpdima=\dimen195
+\@anim@tmpdimb=\dimen196
+\@anim@num=\count319
+\@anim@curframe=\count320
+\@anim@curframe@zb=\count321
+\@anim@resizeflags=\count322
+\@anim@skipfram=\count323
+\@anim@mulframecnt=\count324
+\@anim@@tmlnfile=\read3
+\@anim@tmpcnt=\count325
+\c@@anim@ltxcnt=\count326
+\@anim@curlayer=\count327
+\@anim@lineno=\count328
+\@anim@curfield=\count329
+\@anim@@resizeflags=\count330
+)
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 14.
+\c@theorem=\count331
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preprint\balance.sty"
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen197
+) Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 14.
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\omlnxlmi.fd"
+File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxexa.fd"
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\lmsntxsy.fd"
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\lmxntxexx.fd"
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 14.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\ot1linuxlibertinet-tlf.fd"
+File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 14.
+<<ot1.cmap>>
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 14.
+<<oml.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxmia.fd"
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxsym.fd"
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxsyc.fd"
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 7.3pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 5.5pt on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 14.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 14.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package hyperref Info: Link coloring OFF on input line 14.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count332
+)
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+ (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.out) (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count333
+\scratchdimen=\dimen198
+\scratchbox=\box59
+\nofMPsegments=\count334
+\nofMParguments=\count335
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count336
+\MPscratchDim=\dimen256
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
+\everyMPtoPDFconversion=\toks41
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside heightrounded 
+* h-part:(L,W,R)=(54.0pt, 506.295pt, 54.0pt)
+* v-part:(T,H,B)=(57.0pt, 664.96999pt, 73.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=506.295pt
+* \textheight=626.0pt
+* \oddsidemargin=-18.26999pt
+* \evensidemargin=-18.26999pt
+* \topmargin=-15.26999pt
+* \headheight=13.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=11.0pt
+* \columnsep=24.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count339
+\c@mv@boldtabular=\count340
+("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/upquote\upquote.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 19.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 19.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\t1linuxbiolinumt-tlf.fd"
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 19.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 19.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 19.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 19.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 21.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 21.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 22.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 9.0pt on input line 22.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 22.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 22.
+<../RBF-R/CF.png, id=47, 433.62pt x 433.62pt>
+File: ../RBF-R/CF.png Graphic file (type png)
+<use ../RBF-R/CF.png>
+Package pdftex.def Info: ../RBF-R/CF.png  used on input line 43.
+(pdftex.def)             Requested size: 151.76927pt x 151.76927pt.
+
+
+Class acmart Warning: A possible image without description on input line 46.
+
+<../RBF-R/LOSS-1000000.png, id=49, 433.62pt x 433.62pt>
+File: ../RBF-R/LOSS-1000000.png Graphic file (type png)
+<use ../RBF-R/LOSS-1000000.png>
+Package pdftex.def Info: ../RBF-R/LOSS-1000000.png  used on input line 62.
+(pdftex.def)             Requested size: 121.51248pt x 121.51201pt.
+<../RBF-R/SGD-1000000.png, id=50, 433.62pt x 433.62pt>
+File: ../RBF-R/SGD-1000000.png Graphic file (type png)
+<use ../RBF-R/SGD-1000000.png>
+Package pdftex.def Info: ../RBF-R/SGD-1000000.png  used on input line 68.
+(pdftex.def)             Requested size: 121.51248pt x 121.51201pt.
+<../RBF-R/LWEIGHTS.png, id=51, 433.62pt x 433.62pt>
+File: ../RBF-R/LWEIGHTS.png Graphic file (type png)
+<use ../RBF-R/LWEIGHTS.png>
+Package pdftex.def Info: ../RBF-R/LWEIGHTS.png  used on input line 74.
+(pdftex.def)             Requested size: 121.51248pt x 121.51201pt.
+
+Class acmart Warning: A possible image without description on input line 78.
+
+[1.1
+
+{C:/Users/lmcc9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../RBF-R/CF.png>]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 86.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 86.
+<../MCar/anim/Q_table_e_0.png, id=80, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_0.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_0.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_0.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_0.png> <a0,fr0>
+<../MCar/anim/Q_table_e_1.png, id=89, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_1.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_1.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_1.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_1.png> <a0,fr1>
+<../MCar/anim/Q_table_e_2.png, id=98, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_2.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_2.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_2.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_2.png> <a0,fr2>
+<../MCar/anim/Q_table_e_3.png, id=107, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_3.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_3.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_3.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_3.png> <a0,fr3>
+<../MCar/anim/Q_table_e_4.png, id=116, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_4.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_4.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_4.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_4.png> <a0,fr4>
+<../MCar/anim/Q_table_e_5.png, id=125, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_5.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_5.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_5.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_5.png> <a0,fr5>
+<../MCar/anim/Q_table_e_6.png, id=134, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_6.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_6.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_6.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_6.png> <a0,fr6>
+<../MCar/anim/Q_table_e_7.png, id=143, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_7.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_7.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_7.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_7.png> <a0,fr7>
+<../MCar/anim/Q_table_e_8.png, id=152, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_8.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_8.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_8.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_8.png> <a0,fr8>
+<../MCar/anim/Q_table_e_9.png, id=161, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_9.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_9.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_9.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_9.png> <a0,fr9>
+<../MCar/anim/Q_table_e_10.png, id=170, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_10.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_10.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_10.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_10.png> <a0,fr10>
+<../MCar/anim/Q_table_e_11.png, id=179, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_11.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_11.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_11.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_11.png> <a0,fr11>
+<../MCar/anim/Q_table_e_12.png, id=188, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_12.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_12.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_12.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_12.png> <a0,fr12>
+<../MCar/anim/Q_table_e_13.png, id=197, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_13.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_13.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_13.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_13.png> <a0,fr13>
+<../MCar/anim/Q_table_e_14.png, id=206, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_14.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_14.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_14.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_14.png> <a0,fr14>
+<../MCar/anim/Q_table_e_15.png, id=215, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_15.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_15.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_15.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_15.png> <a0,fr15>
+<../MCar/anim/Q_table_e_16.png, id=224, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_16.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_16.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_16.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_16.png> <a0,fr16>
+<../MCar/anim/Q_table_e_17.png, id=233, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_17.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_17.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_17.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_17.png> <a0,fr17>
+<../MCar/anim/Q_table_e_18.png, id=242, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_18.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_18.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_18.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_18.png> <a0,fr18>
+<../MCar/anim/Q_table_e_19.png, id=251, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_19.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_19.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_19.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_19.png> <a0,fr19>
+<../MCar/anim/Q_table_e_20.png, id=260, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_20.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_20.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_20.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_20.png> <a0,fr20>
+<../MCar/anim/Q_table_e_21.png, id=269, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_21.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_21.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_21.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_21.png> <a0,fr21>
+<../MCar/anim/Q_table_e_22.png, id=278, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_22.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_22.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_22.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_22.png> <a0,fr22>
+<../MCar/anim/Q_table_e_23.png, id=287, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_23.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_23.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_23.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_23.png> <a0,fr23>
+<../MCar/anim/Q_table_e_24.png, id=296, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_24.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_24.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_24.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_24.png> <a0,fr24>
+<../MCar/anim/Q_table_e_25.png, id=305, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_25.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_25.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_25.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_25.png> <a0,fr25>
+<../MCar/anim/Q_table_e_26.png, id=314, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_26.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_26.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_26.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_26.png> <a0,fr26>
+<../MCar/anim/Q_table_e_27.png, id=323, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_27.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_27.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_27.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_27.png> <a0,fr27>
+<../MCar/anim/Q_table_e_28.png, id=332, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_28.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_28.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_28.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_28.png> <a0,fr28>
+<../MCar/anim/Q_table_e_29.png, id=341, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_29.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_29.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_29.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_29.png> <a0,fr29>
+<../MCar/anim/Q_table_e_30.png, id=350, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_30.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_30.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_30.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_30.png> <a0,fr30>
+<../MCar/anim/Q_table_e_31.png, id=359, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_31.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_31.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_31.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_31.png> <a0,fr31>
+<../MCar/anim/Q_table_e_32.png, id=368, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_32.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_32.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_32.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_32.png> <a0,fr32>
+<../MCar/anim/Q_table_e_33.png, id=377, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_33.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_33.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_33.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_33.png> <a0,fr33>
+<../MCar/anim/Q_table_e_34.png, id=386, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_34.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_34.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_34.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_34.png> <a0,fr34>
+<../MCar/anim/Q_table_e_35.png, id=395, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_35.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_35.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_35.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_35.png> <a0,fr35>
+<../MCar/anim/Q_table_e_36.png, id=404, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_36.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_36.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_36.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_36.png> <a0,fr36>
+<../MCar/anim/Q_table_e_37.png, id=413, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_37.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_37.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_37.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_37.png> <a0,fr37>
+<../MCar/anim/Q_table_e_38.png, id=422, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_38.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_38.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_38.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_38.png> <a0,fr38>
+<../MCar/anim/Q_table_e_39.png, id=431, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_39.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_39.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_39.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_39.png> <a0,fr39>
+<../MCar/anim/Q_table_e_40.png, id=440, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_40.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_40.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_40.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_40.png> <a0,fr40>
+<../MCar/anim/Q_table_e_41.png, id=449, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_41.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_41.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_41.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_41.png> <a0,fr41>
+<../MCar/anim/Q_table_e_42.png, id=458, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_42.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_42.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_42.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_42.png> <a0,fr42>
+<../MCar/anim/Q_table_e_43.png, id=467, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_43.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_43.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_43.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_43.png> <a0,fr43>
+<../MCar/anim/Q_table_e_44.png, id=476, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_44.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_44.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_44.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_44.png> <a0,fr44>
+<../MCar/anim/Q_table_e_45.png, id=485, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_45.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_45.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_45.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_45.png> <a0,fr45>
+<../MCar/anim/Q_table_e_46.png, id=494, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_46.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_46.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_46.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_46.png> <a0,fr46>
+<../MCar/anim/Q_table_e_47.png, id=503, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_47.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_47.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_47.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_47.png> <a0,fr47>
+<../MCar/anim/Q_table_e_48.png, id=512, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_48.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_48.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_48.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_48.png> <a0,fr48>
+<../MCar/anim/Q_table_e_49.png, id=521, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_49.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_49.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_49.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_49.png> <a0,fr49>
+<../MCar/anim/Q_table_e_50.png, id=530, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_50.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_50.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_50.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_50.png> <a0,fr50>
+<../MCar/anim/Q_table_e_51.png, id=539, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_51.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_51.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_51.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_51.png> <a0,fr51>
+<../MCar/anim/Q_table_e_52.png, id=548, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_52.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_52.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_52.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_52.png> <a0,fr52>
+<../MCar/anim/Q_table_e_53.png, id=557, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_53.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_53.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_53.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_53.png> <a0,fr53>
+<../MCar/anim/Q_table_e_54.png, id=566, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_54.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_54.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_54.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_54.png> <a0,fr54>
+<../MCar/anim/Q_table_e_55.png, id=575, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_55.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_55.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_55.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_55.png> <a0,fr55>
+<../MCar/anim/Q_table_e_56.png, id=584, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_56.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_56.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_56.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_56.png> <a0,fr56>
+<../MCar/anim/Q_table_e_57.png, id=593, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_57.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_57.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_57.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_57.png> <a0,fr57>
+<../MCar/anim/Q_table_e_58.png, id=602, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_58.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_58.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_58.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_58.png> <a0,fr58>
+<../MCar/anim/Q_table_e_59.png, id=611, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_59.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_59.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_59.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_59.png> <a0,fr59>
+<../MCar/anim/Q_table_e_60.png, id=620, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_60.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_60.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_60.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_60.png> <a0,fr60>
+<../MCar/anim/Q_table_e_61.png, id=629, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_61.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_61.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_61.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_61.png> <a0,fr61>
+<../MCar/anim/Q_table_e_62.png, id=638, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_62.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_62.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_62.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_62.png> <a0,fr62>
+<../MCar/anim/Q_table_e_63.png, id=647, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_63.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_63.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_63.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_63.png> <a0,fr63>
+<../MCar/anim/Q_table_e_64.png, id=656, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_64.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_64.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_64.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_64.png> <a0,fr64>
+<../MCar/anim/Q_table_e_65.png, id=665, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_65.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_65.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_65.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_65.png> <a0,fr65>
+<../MCar/anim/Q_table_e_66.png, id=674, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_66.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_66.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_66.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_66.png> <a0,fr66>
+<../MCar/anim/Q_table_e_67.png, id=683, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_67.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_67.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_67.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_67.png> <a0,fr67>
+<../MCar/anim/Q_table_e_68.png, id=692, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_68.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_68.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_68.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_68.png> <a0,fr68>
+<../MCar/anim/Q_table_e_69.png, id=701, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_69.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_69.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_69.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_69.png> <a0,fr69>
+<../MCar/anim/Q_table_e_70.png, id=710, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_70.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_70.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_70.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_70.png> <a0,fr70>
+<../MCar/anim/Q_table_e_71.png, id=719, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_71.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_71.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_71.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_71.png> <a0,fr71>
+<../MCar/anim/Q_table_e_72.png, id=728, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_72.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_72.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_72.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_72.png> <a0,fr72>
+<../MCar/anim/Q_table_e_73.png, id=737, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_73.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_73.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_73.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_73.png> <a0,fr73>
+<../MCar/anim/Q_table_e_74.png, id=746, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_74.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_74.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_74.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_74.png> <a0,fr74>
+<../MCar/anim/Q_table_e_75.png, id=755, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_75.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_75.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_75.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_75.png> <a0,fr75>
+<../MCar/anim/Q_table_e_76.png, id=764, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_76.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_76.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_76.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_76.png> <a0,fr76>
+<../MCar/anim/Q_table_e_77.png, id=773, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_77.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_77.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_77.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_77.png> <a0,fr77>
+<../MCar/anim/Q_table_e_78.png, id=782, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_78.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_78.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_78.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_78.png> <a0,fr78>
+<../MCar/anim/Q_table_e_79.png, id=791, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_79.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_79.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_79.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_79.png> <a0,fr79>
+<../MCar/anim/Q_table_e_80.png, id=800, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_80.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_80.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_80.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_80.png> <a0,fr80>
+<../MCar/anim/Q_table_e_81.png, id=809, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_81.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_81.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_81.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_81.png> <a0,fr81>
+<../MCar/anim/Q_table_e_82.png, id=818, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_82.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_82.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_82.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_82.png> <a0,fr82>
+<../MCar/anim/Q_table_e_83.png, id=827, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_83.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_83.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_83.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_83.png> <a0,fr83>
+<../MCar/anim/Q_table_e_84.png, id=836, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_84.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_84.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_84.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_84.png> <a0,fr84>
+<../MCar/anim/Q_table_e_85.png, id=845, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_85.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_85.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_85.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_85.png> <a0,fr85>
+<../MCar/anim/Q_table_e_86.png, id=854, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_86.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_86.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_86.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_86.png> <a0,fr86>
+<../MCar/anim/Q_table_e_87.png, id=863, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_87.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_87.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_87.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_87.png> <a0,fr87>
+<../MCar/anim/Q_table_e_88.png, id=872, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_88.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_88.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_88.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_88.png> <a0,fr88>
+<../MCar/anim/Q_table_e_89.png, id=881, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_89.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_89.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_89.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_89.png> <a0,fr89>
+<../MCar/anim/Q_table_e_90.png, id=890, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_90.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_90.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_90.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_90.png> <a0,fr90>
+<../MCar/anim/Q_table_e_91.png, id=899, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_91.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_91.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_91.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_91.png> <a0,fr91>
+<../MCar/anim/Q_table_e_92.png, id=908, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_92.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_92.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_92.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_92.png> <a0,fr92>
+<../MCar/anim/Q_table_e_93.png, id=917, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_93.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_93.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_93.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_93.png> <a0,fr93>
+<../MCar/anim/Q_table_e_94.png, id=926, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_94.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_94.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_94.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_94.png> <a0,fr94>
+<../MCar/anim/Q_table_e_95.png, id=935, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_95.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_95.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_95.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_95.png> <a0,fr95>
+<../MCar/anim/Q_table_e_96.png, id=944, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_96.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_96.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_96.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_96.png> <a0,fr96>
+<../MCar/anim/Q_table_e_97.png, id=953, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_97.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_97.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_97.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_97.png> <a0,fr97>
+<../MCar/anim/Q_table_e_98.png, id=962, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_98.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_98.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_98.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_98.png> <a0,fr98>
+<../MCar/anim/Q_table_e_99.png, id=971, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_99.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_99.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_99.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_99.png> <a0,fr99>
+<../MCar/anim/Q_table_e_100.png, id=980, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_100.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_100.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_100.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_100.png> <a0,fr100>
+<../MCar/anim/Q_table_e_101.png, id=989, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_101.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_101.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_101.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_101.png> <a0,fr101>
+<../MCar/anim/Q_table_e_102.png, id=998, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_102.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_102.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_102.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_102.png> <a0,fr102>
+<../MCar/anim/Q_table_e_103.png, id=1007, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_103.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_103.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_103.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_103.png> <a0,fr103>
+<../MCar/anim/Q_table_e_104.png, id=1016, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_104.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_104.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_104.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_104.png> <a0,fr104>
+<../MCar/anim/Q_table_e_105.png, id=1025, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_105.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_105.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_105.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_105.png> <a0,fr105>
+<../MCar/anim/Q_table_e_106.png, id=1034, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_106.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_106.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_106.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_106.png> <a0,fr106>
+<../MCar/anim/Q_table_e_107.png, id=1043, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_107.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_107.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_107.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_107.png> <a0,fr107>
+<../MCar/anim/Q_table_e_108.png, id=1052, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_108.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_108.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_108.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_108.png> <a0,fr108>
+<../MCar/anim/Q_table_e_109.png, id=1061, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_109.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_109.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_109.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_109.png> <a0,fr109>
+<../MCar/anim/Q_table_e_110.png, id=1070, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_110.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_110.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_110.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_110.png> <a0,fr110>
+<../MCar/anim/Q_table_e_111.png, id=1079, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_111.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_111.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_111.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_111.png> <a0,fr111>
+<../MCar/anim/Q_table_e_112.png, id=1088, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_112.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_112.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_112.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_112.png> <a0,fr112>
+<../MCar/anim/Q_table_e_113.png, id=1097, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_113.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_113.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_113.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_113.png> <a0,fr113>
+<../MCar/anim/Q_table_e_114.png, id=1106, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_114.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_114.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_114.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_114.png> <a0,fr114>
+<../MCar/anim/Q_table_e_115.png, id=1115, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_115.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_115.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_115.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_115.png> <a0,fr115>
+<../MCar/anim/Q_table_e_116.png, id=1124, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_116.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_116.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_116.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_116.png> <a0,fr116>
+<../MCar/anim/Q_table_e_117.png, id=1133, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_117.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_117.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_117.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_117.png> <a0,fr117>
+<../MCar/anim/Q_table_e_118.png, id=1142, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_118.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_118.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_118.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_118.png> <a0,fr118>
+<../MCar/anim/Q_table_e_119.png, id=1151, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_119.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_119.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_119.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_119.png> <a0,fr119>
+<../MCar/anim/Q_table_e_120.png, id=1160, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_120.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_120.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_120.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_120.png> <a0,fr120>
+<../MCar/anim/Q_table_e_121.png, id=1169, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_121.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_121.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_121.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_121.png> <a0,fr121>
+<../MCar/anim/Q_table_e_122.png, id=1178, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_122.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_122.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_122.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_122.png> <a0,fr122>
+<../MCar/anim/Q_table_e_123.png, id=1187, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_123.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_123.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_123.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_123.png> <a0,fr123>
+<../MCar/anim/Q_table_e_124.png, id=1196, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_124.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_124.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_124.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_124.png> <a0,fr124>
+<../MCar/anim/Q_table_e_125.png, id=1205, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_125.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_125.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_125.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_125.png> <a0,fr125>
+<../MCar/anim/Q_table_e_126.png, id=1214, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_126.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_126.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_126.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_126.png> <a0,fr126>
+<../MCar/anim/Q_table_e_127.png, id=1223, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_127.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_127.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_127.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_127.png> <a0,fr127>
+<../MCar/anim/Q_table_e_128.png, id=1232, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_128.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_128.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_128.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_128.png> <a0,fr128>
+<../MCar/anim/Q_table_e_129.png, id=1241, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_129.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_129.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_129.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_129.png> <a0,fr129>
+<../MCar/anim/Q_table_e_130.png, id=1250, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_130.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_130.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_130.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_130.png> <a0,fr130>
+<../MCar/anim/Q_table_e_131.png, id=1259, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_131.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_131.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_131.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_131.png> <a0,fr131>
+<../MCar/anim/Q_table_e_132.png, id=1268, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_132.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_132.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_132.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_132.png> <a0,fr132>
+<../MCar/anim/Q_table_e_133.png, id=1277, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_133.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_133.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_133.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_133.png> <a0,fr133>
+<../MCar/anim/Q_table_e_134.png, id=1286, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_134.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_134.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_134.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_134.png> <a0,fr134>
+<../MCar/anim/Q_table_e_135.png, id=1295, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_135.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_135.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_135.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_135.png> <a0,fr135>
+<../MCar/anim/Q_table_e_136.png, id=1304, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_136.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_136.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_136.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_136.png> <a0,fr136>
+<../MCar/anim/Q_table_e_137.png, id=1313, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_137.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_137.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_137.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_137.png> <a0,fr137>
+<../MCar/anim/Q_table_e_138.png, id=1322, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_138.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_138.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_138.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_138.png> <a0,fr138>
+<../MCar/anim/Q_table_e_139.png, id=1331, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_139.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_139.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_139.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_139.png> <a0,fr139>
+<../MCar/anim/Q_table_e_140.png, id=1340, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_140.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_140.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_140.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_140.png> <a0,fr140>
+<../MCar/anim/Q_table_e_141.png, id=1349, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_141.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_141.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_141.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_141.png> <a0,fr141>
+<../MCar/anim/Q_table_e_142.png, id=1358, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_142.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_142.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_142.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_142.png> <a0,fr142>
+<../MCar/anim/Q_table_e_143.png, id=1367, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_143.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_143.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_143.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_143.png> <a0,fr143>
+<../MCar/anim/Q_table_e_144.png, id=1376, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_144.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_144.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_144.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_144.png> <a0,fr144>
+<../MCar/anim/Q_table_e_145.png, id=1385, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_145.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_145.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_145.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_145.png> <a0,fr145>
+<../MCar/anim/Q_table_e_146.png, id=1394, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_146.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_146.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_146.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_146.png> <a0,fr146>
+<../MCar/anim/Q_table_e_147.png, id=1403, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_147.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_147.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_147.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_147.png> <a0,fr147>
+<../MCar/anim/Q_table_e_148.png, id=1412, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_148.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_148.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_148.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_148.png> <a0,fr148>
+<../MCar/anim/Q_table_e_149.png, id=1421, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_149.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_149.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_149.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_149.png> <a0,fr149>
+<../MCar/anim/Q_table_e_150.png, id=1430, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_150.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_150.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_150.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_150.png> <a0,fr150>
+<../MCar/anim/Q_table_e_151.png, id=1439, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_151.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_151.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_151.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_151.png> <a0,fr151>
+<../MCar/anim/Q_table_e_152.png, id=1448, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_152.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_152.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_152.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_152.png> <a0,fr152>
+<../MCar/anim/Q_table_e_153.png, id=1457, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_153.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_153.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_153.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_153.png> <a0,fr153>
+<../MCar/anim/Q_table_e_154.png, id=1466, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_154.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_154.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_154.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_154.png> <a0,fr154>
+<../MCar/anim/Q_table_e_155.png, id=1475, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_155.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_155.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_155.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_155.png> <a0,fr155>
+<../MCar/anim/Q_table_e_156.png, id=1484, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_156.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_156.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_156.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_156.png> <a0,fr156>
+<../MCar/anim/Q_table_e_157.png, id=1493, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_157.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_157.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_157.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_157.png> <a0,fr157>
+<../MCar/anim/Q_table_e_158.png, id=1502, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_158.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_158.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_158.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_158.png> <a0,fr158>
+<../MCar/anim/Q_table_e_159.png, id=1511, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_159.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_159.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_159.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_159.png> <a0,fr159>
+<../MCar/anim/Q_table_e_160.png, id=1520, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_160.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_160.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_160.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_160.png> <a0,fr160>
+<../MCar/anim/Q_table_e_161.png, id=1529, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_161.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_161.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_161.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_161.png> <a0,fr161>
+<../MCar/anim/Q_table_e_162.png, id=1538, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_162.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_162.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_162.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_162.png> <a0,fr162>
+<../MCar/anim/Q_table_e_163.png, id=1547, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_163.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_163.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_163.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_163.png> <a0,fr163>
+<../MCar/anim/Q_table_e_164.png, id=1556, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_164.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_164.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_164.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_164.png> <a0,fr164>
+<../MCar/anim/Q_table_e_165.png, id=1565, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_165.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_165.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_165.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_165.png> <a0,fr165>
+<../MCar/anim/Q_table_e_166.png, id=1574, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_166.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_166.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_166.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_166.png> <a0,fr166>
+<../MCar/anim/Q_table_e_167.png, id=1583, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_167.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_167.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_167.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_167.png> <a0,fr167>
+<../MCar/anim/Q_table_e_168.png, id=1592, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_168.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_168.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_168.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_168.png> <a0,fr168>
+<../MCar/anim/Q_table_e_169.png, id=1601, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_169.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_169.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_169.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_169.png> <a0,fr169>
+<../MCar/anim/Q_table_e_170.png, id=1610, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_170.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_170.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_170.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_170.png> <a0,fr170>
+<../MCar/anim/Q_table_e_171.png, id=1619, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_171.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_171.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_171.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_171.png> <a0,fr171>
+<../MCar/anim/Q_table_e_172.png, id=1628, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_172.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_172.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_172.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_172.png> <a0,fr172>
+<../MCar/anim/Q_table_e_173.png, id=1637, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_173.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_173.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_173.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_173.png> <a0,fr173>
+<../MCar/anim/Q_table_e_174.png, id=1646, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_174.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_174.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_174.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_174.png> <a0,fr174>
+<../MCar/anim/Q_table_e_175.png, id=1655, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_175.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_175.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_175.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_175.png> <a0,fr175>
+<../MCar/anim/Q_table_e_176.png, id=1664, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_176.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_176.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_176.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_176.png> <a0,fr176>
+<../MCar/anim/Q_table_e_177.png, id=1673, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_177.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_177.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_177.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_177.png> <a0,fr177>
+<../MCar/anim/Q_table_e_178.png, id=1682, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_178.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_178.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_178.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_178.png> <a0,fr178>
+<../MCar/anim/Q_table_e_179.png, id=1691, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_179.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_179.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_179.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_179.png> <a0,fr179>
+<../MCar/anim/Q_table_e_180.png, id=1700, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_180.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_180.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_180.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_180.png> <a0,fr180>
+<../MCar/anim/Q_table_e_181.png, id=1709, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_181.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_181.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_181.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_181.png> <a0,fr181>
+<../MCar/anim/Q_table_e_182.png, id=1718, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_182.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_182.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_182.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_182.png> <a0,fr182>
+<../MCar/anim/Q_table_e_183.png, id=1727, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_183.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_183.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_183.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_183.png> <a0,fr183>
+<../MCar/anim/Q_table_e_184.png, id=1736, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_184.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_184.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_184.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_184.png> <a0,fr184>
+<../MCar/anim/Q_table_e_185.png, id=1745, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_185.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_185.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_185.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_185.png> <a0,fr185>
+<../MCar/anim/Q_table_e_186.png, id=1754, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_186.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_186.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_186.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_186.png> <a0,fr186>
+<../MCar/anim/Q_table_e_187.png, id=1763, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_187.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_187.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_187.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_187.png> <a0,fr187>
+<../MCar/anim/Q_table_e_188.png, id=1772, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_188.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_188.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_188.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_188.png> <a0,fr188>
+<../MCar/anim/Q_table_e_189.png, id=1781, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_189.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_189.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_189.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_189.png> <a0,fr189>
+<../MCar/anim/Q_table_e_190.png, id=1790, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_190.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_190.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_190.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_190.png> <a0,fr190>
+<../MCar/anim/Q_table_e_191.png, id=1799, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_191.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_191.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_191.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_191.png> <a0,fr191>
+<../MCar/anim/Q_table_e_192.png, id=1808, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_192.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_192.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_192.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_192.png> <a0,fr192>
+<../MCar/anim/Q_table_e_193.png, id=1817, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_193.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_193.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_193.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_193.png> <a0,fr193>
+<../MCar/anim/Q_table_e_194.png, id=1826, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_194.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_194.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_194.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_194.png> <a0,fr194>
+<../MCar/anim/Q_table_e_195.png, id=1835, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_195.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_195.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_195.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_195.png> <a0,fr195>
+<../MCar/anim/Q_table_e_196.png, id=1844, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_196.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_196.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_196.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_196.png> <a0,fr196>
+<../MCar/anim/Q_table_e_197.png, id=1853, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_197.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_197.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_197.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_197.png> <a0,fr197>
+<../MCar/anim/Q_table_e_198.png, id=1862, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_198.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_198.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_198.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_198.png> <a0,fr198>
+<../MCar/anim/Q_table_e_199.png, id=1871, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_199.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_199.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_199.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_199.png> <a0,fr199>
+<../MCar/anim/Q_table_e_200.png, id=1880, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_200.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_200.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_200.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_200.png> <a0,fr200>
+<../MCar/anim/Q_table_e_201.png, id=1889, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_201.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_201.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_201.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_201.png> <a0,fr201>
+<../MCar/anim/Q_table_e_202.png, id=1898, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_202.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_202.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_202.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_202.png> <a0,fr202>
+<../MCar/anim/Q_table_e_203.png, id=1907, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_203.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_203.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_203.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_203.png> <a0,fr203>
+<../MCar/anim/Q_table_e_204.png, id=1916, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_204.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_204.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_204.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_204.png> <a0,fr204>
+<../MCar/anim/Q_table_e_205.png, id=1925, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_205.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_205.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_205.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_205.png> <a0,fr205>
+<../MCar/anim/Q_table_e_206.png, id=1934, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_206.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_206.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_206.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_206.png> <a0,fr206>
+<../MCar/anim/Q_table_e_207.png, id=1943, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_207.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_207.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_207.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_207.png> <a0,fr207>
+<../MCar/anim/Q_table_e_208.png, id=1952, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_208.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_208.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_208.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_208.png> <a0,fr208>
+<../MCar/anim/Q_table_e_209.png, id=1961, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_209.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_209.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_209.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_209.png> <a0,fr209>
+<../MCar/anim/Q_table_e_210.png, id=1970, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_210.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_210.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_210.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_210.png> <a0,fr210>
+<../MCar/anim/Q_table_e_211.png, id=1979, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_211.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_211.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_211.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_211.png> <a0,fr211>
+<../MCar/anim/Q_table_e_212.png, id=1988, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_212.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_212.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_212.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_212.png> <a0,fr212>
+<../MCar/anim/Q_table_e_213.png, id=1997, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_213.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_213.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_213.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_213.png> <a0,fr213>
+<../MCar/anim/Q_table_e_214.png, id=2006, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_214.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_214.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_214.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_214.png> <a0,fr214>
+<../MCar/anim/Q_table_e_215.png, id=2015, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_215.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_215.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_215.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_215.png> <a0,fr215>
+<../MCar/anim/Q_table_e_216.png, id=2024, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_216.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_216.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_216.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_216.png> <a0,fr216>
+<../MCar/anim/Q_table_e_217.png, id=2033, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_217.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_217.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_217.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_217.png> <a0,fr217>
+<../MCar/anim/Q_table_e_218.png, id=2042, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_218.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_218.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_218.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_218.png> <a0,fr218>
+<../MCar/anim/Q_table_e_219.png, id=2051, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_219.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_219.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_219.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_219.png> <a0,fr219>
+<../MCar/anim/Q_table_e_220.png, id=2060, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_220.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_220.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_220.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_220.png> <a0,fr220>
+<../MCar/anim/Q_table_e_221.png, id=2069, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_221.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_221.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_221.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_221.png> <a0,fr221>
+<../MCar/anim/Q_table_e_222.png, id=2078, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_222.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_222.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_222.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_222.png> <a0,fr222>
+<../MCar/anim/Q_table_e_223.png, id=2087, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_223.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_223.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_223.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_223.png> <a0,fr223>
+<../MCar/anim/Q_table_e_224.png, id=2096, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_224.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_224.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_224.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_224.png> <a0,fr224>
+<../MCar/anim/Q_table_e_225.png, id=2105, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_225.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_225.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_225.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_225.png> <a0,fr225>
+<../MCar/anim/Q_table_e_226.png, id=2114, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_226.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_226.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_226.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_226.png> <a0,fr226>
+<../MCar/anim/Q_table_e_227.png, id=2123, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_227.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_227.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_227.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_227.png> <a0,fr227>
+<../MCar/anim/Q_table_e_228.png, id=2132, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_228.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_228.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_228.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_228.png> <a0,fr228>
+<../MCar/anim/Q_table_e_229.png, id=2141, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_229.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_229.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_229.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_229.png> <a0,fr229>
+<../MCar/anim/Q_table_e_230.png, id=2150, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_230.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_230.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_230.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_230.png> <a0,fr230>
+<../MCar/anim/Q_table_e_231.png, id=2159, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_231.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_231.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_231.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_231.png> <a0,fr231>
+<../MCar/anim/Q_table_e_232.png, id=2168, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_232.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_232.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_232.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_232.png> <a0,fr232>
+<../MCar/anim/Q_table_e_233.png, id=2177, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_233.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_233.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_233.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_233.png> <a0,fr233>
+<../MCar/anim/Q_table_e_234.png, id=2186, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_234.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_234.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_234.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_234.png> <a0,fr234>
+<../MCar/anim/Q_table_e_235.png, id=2195, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_235.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_235.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_235.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_235.png> <a0,fr235>
+<../MCar/anim/Q_table_e_236.png, id=2204, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_236.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_236.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_236.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_236.png> <a0,fr236>
+<../MCar/anim/Q_table_e_237.png, id=2213, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_237.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_237.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_237.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_237.png> <a0,fr237>
+<../MCar/anim/Q_table_e_238.png, id=2222, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_238.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_238.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_238.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_238.png> <a0,fr238>
+<../MCar/anim/Q_table_e_239.png, id=2231, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_239.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_239.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_239.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_239.png> <a0,fr239>
+<../MCar/anim/Q_table_e_240.png, id=2240, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_240.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_240.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_240.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_240.png> <a0,fr240>
+<../MCar/anim/Q_table_e_241.png, id=2249, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_241.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_241.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_241.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_241.png> <a0,fr241>
+<../MCar/anim/Q_table_e_242.png, id=2258, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_242.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_242.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_242.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_242.png> <a0,fr242>
+<../MCar/anim/Q_table_e_243.png, id=2267, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_243.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_243.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_243.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_243.png> <a0,fr243>
+<../MCar/anim/Q_table_e_244.png, id=2276, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_244.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_244.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_244.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_244.png> <a0,fr244>
+<../MCar/anim/Q_table_e_245.png, id=2285, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_245.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_245.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_245.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_245.png> <a0,fr245>
+<../MCar/anim/Q_table_e_246.png, id=2294, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_246.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_246.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_246.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_246.png> <a0,fr246>
+<../MCar/anim/Q_table_e_247.png, id=2303, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_247.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_247.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_247.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_247.png> <a0,fr247>
+<../MCar/anim/Q_table_e_248.png, id=2312, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_248.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_248.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_248.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_248.png> <a0,fr248>
+<../MCar/anim/Q_table_e_249.png, id=2321, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_249.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_249.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_249.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_249.png> <a0,fr249>
+<../MCar/anim/Q_table_e_250.png, id=2330, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_250.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_250.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_250.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_250.png> <a0,fr250>
+<../MCar/anim/Q_table_e_251.png, id=2339, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_251.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_251.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_251.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_251.png> <a0,fr251>
+<../MCar/anim/Q_table_e_252.png, id=2348, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_252.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_252.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_252.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_252.png> <a0,fr252>
+<../MCar/anim/Q_table_e_253.png, id=2357, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_253.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_253.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_253.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_253.png> <a0,fr253>
+<../MCar/anim/Q_table_e_254.png, id=2366, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_254.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_254.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_254.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_254.png> <a0,fr254>
+<../MCar/anim/Q_table_e_255.png, id=2375, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_255.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_255.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_255.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_255.png> <a0,fr255>
+<../MCar/anim/Q_table_e_256.png, id=2384, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_256.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_256.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_256.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_256.png> <a0,fr256>
+<../MCar/anim/Q_table_e_257.png, id=2393, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_257.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_257.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_257.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_257.png> <a0,fr257>
+<../MCar/anim/Q_table_e_258.png, id=2402, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_258.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_258.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_258.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_258.png> <a0,fr258>
+<../MCar/anim/Q_table_e_259.png, id=2411, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_259.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_259.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_259.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_259.png> <a0,fr259>
+<../MCar/anim/Q_table_e_260.png, id=2420, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_260.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_260.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_260.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_260.png> <a0,fr260>
+<../MCar/anim/Q_table_e_261.png, id=2429, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_261.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_261.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_261.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_261.png> <a0,fr261>
+<../MCar/anim/Q_table_e_262.png, id=2438, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_262.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_262.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_262.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_262.png> <a0,fr262>
+<../MCar/anim/Q_table_e_263.png, id=2447, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_263.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_263.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_263.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_263.png> <a0,fr263>
+<../MCar/anim/Q_table_e_264.png, id=2456, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_264.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_264.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_264.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_264.png> <a0,fr264>
+<../MCar/anim/Q_table_e_265.png, id=2465, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_265.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_265.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_265.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_265.png> <a0,fr265>
+<../MCar/anim/Q_table_e_266.png, id=2474, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_266.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_266.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_266.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_266.png> <a0,fr266>
+<../MCar/anim/Q_table_e_267.png, id=2483, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_267.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_267.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_267.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_267.png> <a0,fr267>
+<../MCar/anim/Q_table_e_268.png, id=2492, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_268.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_268.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_268.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_268.png> <a0,fr268>
+<../MCar/anim/Q_table_e_269.png, id=2501, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_269.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_269.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_269.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_269.png> <a0,fr269>
+<../MCar/anim/Q_table_e_270.png, id=2510, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_270.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_270.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_270.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_270.png> <a0,fr270>
+<../MCar/anim/Q_table_e_271.png, id=2519, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_271.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_271.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_271.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_271.png> <a0,fr271>
+<../MCar/anim/Q_table_e_272.png, id=2528, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_272.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_272.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_272.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_272.png> <a0,fr272>
+<../MCar/anim/Q_table_e_273.png, id=2537, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_273.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_273.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_273.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_273.png> <a0,fr273>
+<../MCar/anim/Q_table_e_274.png, id=2546, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_274.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_274.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_274.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_274.png> <a0,fr274>
+<../MCar/anim/Q_table_e_275.png, id=2555, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_275.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_275.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_275.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_275.png> <a0,fr275>
+<../MCar/anim/Q_table_e_276.png, id=2564, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_276.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_276.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_276.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_276.png> <a0,fr276>
+<../MCar/anim/Q_table_e_277.png, id=2573, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_277.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_277.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_277.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_277.png> <a0,fr277>
+<../MCar/anim/Q_table_e_278.png, id=2582, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_278.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_278.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_278.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_278.png> <a0,fr278>
+<../MCar/anim/Q_table_e_279.png, id=2591, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_279.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_279.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_279.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_279.png> <a0,fr279>
+<../MCar/anim/Q_table_e_280.png, id=2600, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_280.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_280.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_280.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_280.png> <a0,fr280>
+<../MCar/anim/Q_table_e_281.png, id=2609, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_281.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_281.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_281.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_281.png> <a0,fr281>
+<../MCar/anim/Q_table_e_282.png, id=2618, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_282.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_282.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_282.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_282.png> <a0,fr282>
+<../MCar/anim/Q_table_e_283.png, id=2627, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_283.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_283.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_283.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_283.png> <a0,fr283>
+<../MCar/anim/Q_table_e_284.png, id=2636, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_284.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_284.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_284.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_284.png> <a0,fr284>
+<../MCar/anim/Q_table_e_285.png, id=2645, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_285.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_285.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_285.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_285.png> <a0,fr285>
+<../MCar/anim/Q_table_e_286.png, id=2654, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_286.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_286.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_286.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_286.png> <a0,fr286>
+<../MCar/anim/Q_table_e_287.png, id=2663, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_287.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_287.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_287.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_287.png> <a0,fr287>
+<../MCar/anim/Q_table_e_288.png, id=2672, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_288.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_288.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_288.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_288.png> <a0,fr288>
+<../MCar/anim/Q_table_e_289.png, id=2681, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_289.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_289.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_289.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_289.png> <a0,fr289>
+<../MCar/anim/Q_table_e_290.png, id=2690, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_290.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_290.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_290.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_290.png> <a0,fr290>
+<../MCar/anim/Q_table_e_291.png, id=2699, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_291.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_291.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_291.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_291.png> <a0,fr291>
+<../MCar/anim/Q_table_e_292.png, id=2708, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_292.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_292.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_292.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_292.png> <a0,fr292>
+<../MCar/anim/Q_table_e_293.png, id=2717, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_293.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_293.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_293.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_293.png> <a0,fr293>
+<../MCar/anim/Q_table_e_294.png, id=2726, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_294.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_294.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_294.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_294.png> <a0,fr294>
+<../MCar/anim/Q_table_e_295.png, id=2735, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_295.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_295.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_295.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_295.png> <a0,fr295>
+<../MCar/anim/Q_table_e_296.png, id=2744, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_296.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_296.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_296.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_296.png> <a0,fr296>
+<../MCar/anim/Q_table_e_297.png, id=2753, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_297.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_297.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_297.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_297.png> <a0,fr297>
+<../MCar/anim/Q_table_e_298.png, id=2762, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_298.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_298.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_298.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_298.png> <a0,fr298>
+<../MCar/anim/Q_table_e_299.png, id=2771, 722.7pt x 722.7pt>
+File: ../MCar/anim/Q_table_e_299.png Graphic file (type png)
+<use ../MCar/anim/Q_table_e_299.png>
+Package pdftex.def Info: ../MCar/anim/Q_table_e_299.png  used on input line 97.
+(pdftex.def)             Requested size: 722.69823pt x 722.69823pt.
+ <../MCar/anim/Q_table_e_299.png> <a0,fr299>
+
+Class acmart Warning: A possible image without description on input line 100.
+
+<../MCar/STEPS.png, id=2786, 433.62pt x 433.62pt>
+File: ../MCar/STEPS.png Graphic file (type png)
+<use ../MCar/STEPS.png>
+Package pdftex.def Info: ../MCar/STEPS.png  used on input line 109.
+(pdftex.def)             Requested size: 151.89003pt x 151.88837pt.
+<../MCar/1000 Episode.png, id=2787, 722.7pt x 722.7pt>
+File: ../MCar/1000 Episode.png Graphic file (type png)
+<use ../MCar/1000 Episode.png>
+Package pdftex.def Info: ../MCar/1000 Episode.png  used on input line 115.
+(pdftex.def)             Requested size: 151.89003pt x 151.88174pt.
+
+Class acmart Warning: A possible image without description on input line 119.
+
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 123.
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 23.45749pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.45749pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.45749pt}.
+
+[2.2 <../RBF-R/LOSS-1000000.png> <../RBF-R/SGD-1000000.png> <../RBF-R/LWEIGHTS.png>]
+<../MCar/JSteps.png, id=2804, 433.62pt x 433.62pt>
+File: ../MCar/JSteps.png Graphic file (type png)
+<use ../MCar/JSteps.png>
+Package pdftex.def Info: ../MCar/JSteps.png  used on input line 133.
+(pdftex.def)             Requested size: 136.7001pt x 136.69688pt.
+<../MCar/JErrors.png, id=2805, 433.62pt x 433.62pt>
+File: ../MCar/JErrors.png Graphic file (type png)
+<use ../MCar/JErrors.png>
+Package pdftex.def Info: ../MCar/JErrors.png  used on input line 139.
+(pdftex.def)             Requested size: 136.7001pt x 136.69688pt.
+
+
+Class acmart Warning: A possible image without description on input line 143.
+
+[3.3 <../MCar/STEPS.png> <../MCar/1000 Episode.png> <../MCar/JSteps.png> <../MCar/JErrors.png>]
+<../MCar/SARSAanim/SARSA_RBF_e_2.png, id=2820, 722.7pt x 722.7pt>
+File: ../MCar/SARSAanim/SARSA_RBF_e_2.png Graphic file (type png)
+<use ../MCar/SARSAanim/SARSA_RBF_e_2.png>
+Package pdftex.def Info: ../MCar/SARSAanim/SARSA_RBF_e_2.png  used on input line 165.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+
+Class acmart Warning: A possible image without description on input line 168.
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 183.
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 23.45749pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.45749pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.45749pt}.
+
+[4.4 <../MCar/SARSAanim/SARSA_RBF_e_2.png>]
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 236.
+ ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\ubbold.fd"
+File: ubbold.fd 1996/01/01 Blackboard Bold Font Definition File (jk)
+)
+
+LaTeX Font Warning: Font shape `U/bbold/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 236.
+
+[5.5]
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 256.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.3pt on input line 256.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 5.5pt on input line 256.
+ (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 10.
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\se-pdfdoc.def"
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) ("C:\Users\lmcc9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\se-utf8.def"
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
+)
+
+Class acmart Warning: Some images may lack descriptions.
+
+
+Class acmart Warning: ACM keywords are mandatory for papers over two pages.
+
+
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 23.45749pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.45749pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.45749pt}.
+
+[6.6] (c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: EBE8C6202EF8C68B47FA7305B2FF16CD;1905.
+ ) 
+Here is how much of TeX's memory you used:
+ 25752 strings out of 479618
+ 452329 string characters out of 2863090
+ 762925 words of memory out of 3000000
+ 41671 multiletter control sequences out of 15000+200000
+ 541482 words of font info for 267 fonts, out of 3000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 96i,12n,131p,921b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_kijugd.enc} <C:\Users\lmcc9\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/bbold/dpi600\bbold9.pk>{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_fygcup.enc}{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI5.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI7.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathRM.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTZ.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txexs.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lmcc9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb>
+Output written on c:/Users\lmcc9\Desktop\Workspace\Semes2\comp6247\Courseworks\RLearning\Report\report.pdf (6 pages, 79665236 bytes).
+PDF statistics:
+ 2945 PDF objects out of 2984 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 91022 words of extra memory for PDF output out of 106986 (max. 10000000)
+

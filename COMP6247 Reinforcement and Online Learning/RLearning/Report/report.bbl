@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{li2017learning}
+Ke~Li and Jitendra Malik.
+\newblock Learning to optimize neural nets, 2017.
+
+\bibitem{RAN}
+John Platt.
+\newblock A resource-allocating network for function interpolation.
+\newblock {\em Neural Computation}, 3(2):213--225, 1991.
+
+\end{thebibliography}
