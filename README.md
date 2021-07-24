@@ -15,7 +15,7 @@ The final coursework of the module brought in the teaching of Reinforcement Lear
 
 <span style="display:block;text-align:center">
 <img src="https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/4%20-%20RLearning/MCar/qtablegif.gif" height=300 width=300/>
-<img src="https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/4%20-%20RLearning/MCar/cargif.gif" height=300 width=300/>
+<img src="https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/4%20-%20RLearning/MCar/cargif.gif" height=300 width=450/>
 </span>
 <br\>
 <span style="display:block;text-align:center">*Building Q-Table for mountain car solution, and showing found solution*</span>
