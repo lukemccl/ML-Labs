@@ -9,7 +9,7 @@ The module primarily focused on Online Learning, with labs based around implemen
 <p align="center">
 <img src="https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/3%20-%20Particlefilter/Part%202/mygif1.gif" height=300 width=400/>
 </p>
-<p align="center"> <em>Using Extended Kalman Filter to perform logistic regression</em> </p>
+<p align="center"> <em>Using Extended Kalman Filter to perform online logistic regression</em> </p>
 
 The final coursework of the module brought in the teaching of Reinforcement Learning techniques, implementing Q-Learning techniques using the OpenAI Gym environment to solve the mountain car problem.
 
