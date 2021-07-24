@@ -4,7 +4,7 @@ A collection of the practical labs completed over my specialisation year in Arti
 
 ## COMP6247: Reinforcement and Online Learning
 
-The module primarily focused on Online Learning, with labs based around implementing algorithms we had been shown the mathematical basis of during lectures. These algorithms grew in complexity, from Recursive Least Squares to Kalman Filter and finally implenting Particle Filters with SARSA.
+The module primarily focused on Online Learning, with labs based around implementing algorithms we had been shown the mathematical basis of during lectures. These algorithms grew in complexity, from Recursive Least Squares to Kalman Filter and finally implenting Particle Filters with Sequential Importance Sampling (and Resampling).
 
 <p align="center">
 <img src="https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/3%20-%20Particlefilter/Part%202/mygif1.gif" height=300 width=400/>
