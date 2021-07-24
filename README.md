@@ -11,8 +11,8 @@ The module primarily focused on Online Learning, with labs based around implemen
 
 The final coursework of the module brought in the teaching of Reinforcement Learning techniques, implementing Q-Learning techniques using the OpenAI Gym environment to solve the mountain car problem.
 
-<span style="display:block;text-align:center">![QTable animation](https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/3%20-%20Particlefilter/MCar/qtablegif.gif?raw=true)
-![Car animation](https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/3%20-%20Particlefilter/MCar/cargif.gif?raw=true)</span>
+<span style="display:block;text-align:center">![QTable animation](https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/4%20-%20RLearning/MCar/qtablegif.gif)
+![Car animation](https://github.com/lukemccl/ML-Labs/blob/main/COMP6247%20Reinforcement%20and%20Online%20Learning/4%20-%20RLearning/MCar/cargif.gif)</span>
 <span style="display:block;text-align:center">*Building Q-Table for mountain car solution, and showing found solution*</span>
 
 ## COMP6248: Deep Learning
